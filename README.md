@@ -2,20 +2,21 @@
 
 Advanced Chatbot based on GPT an openai project
 
-## Table of Contents
+## Daftar Isi
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Changelogs](#changelogs)
+- [Instalasi](#instalasi)
+- [Penggunaan](#penggunaan)
+- [Changelog](#changelogs)
 - [Credits](#credits)
-- [License](#license)
+- [Lisensi](#lisensi)
+- [Kreator](#Kreator)
 
-## Installation
+## Penginstalan
 
-Linux/Windows: Use nodejs v15 up.
-No need to install modules, required modules are already installed.
+Linux/Windows: Gunakan nodejs v15 ke atas.
+Tidak perlu menginstal modul, modul yang diperlukan sudah terpasang.
 <br>
-Get your fb login cookie and paste it inside session.json
+Dapatkan cookie login fb Anda dan tempel di dalam session.json
 
 `git clone https://github.com/suff3r1ng/messenger-openai.git`
 <br>
@@ -24,24 +25,24 @@ Get your fb login cookie and paste it inside session.json
 `node execute.js`
 <br>
 
-## Usage
+## Penggunaan
 
 Functions:<br>
 
-`/help - show list of commands to trigger the bot`<br>
-`/forecast 'iNPUT CITY NAME'- show weather forecast.`<br>
-`/weather 'INPUT CITY NAME'- show current weather`<br>
-`/img 'ANY COMMANDS eg. image of a pug'- Generate an image`<br>
-`/ai 'YOUR QUESTION'- Ask the AI gpt-3.5-turbo-0301  `<br>
+`/help - tampilkan daftar perintah untuk memicu bot`<br>
+`/forecast 'INPUT NAMA KOTA'- menunjukkan ramalan cuaca.`<br>
+`/weather 'INPUT NAMA KOTA'- menunjukkan cuaca saat ini`<br>
+`/img 'ANY COMMANDS eg. image of a pug'- Hasilkan gambar`<br>
+`/ai'PERTANYAANMU'- Tanya AI gpt-3.5-turbo-0301  `<br>
 `/stop - Stop`<br>
-`/continue - continue the ai`<br>
+`/continue - lanjutkan ai`<br>
 
-## Changelogs:
+## Changelog:
 
-Added weather.<br>
-Added image generator.<br>
-Updated to model gpt-3.5-turbo-0301.<br>
-Added Message History of up to 10 messages only to save tokens for the api.<br>
+Menambahkan cuaca.<br>
+Menambahkan pembuat gambar.<br>
+Diperbarui ke model gpt-3.5-turbo-0301.<br>
+Menambahkan Riwayat Pesan hingga 10 pesan hanya untuk menyimpan token untuk api.<br>
 
 ## Credits
 
@@ -54,3 +55,6 @@ Added Message History of up to 10 messages only to save tokens for the api.<br>
 - [GNU](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 _*suff3r1ng*_
+
+## Kreator
+- [Facebook](https://facebook.com/hayato.ganz.3
